@@ -10,6 +10,8 @@
 
 <p>Joe Chang, Duke Nurrein, devops methodology, Ahmed Asuni</p>
 
+<p>Glo Say, findthefunction, sharmila, Praneeth</p>
+
 </body>
 
 </html>
