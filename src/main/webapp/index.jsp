@@ -8,9 +8,7 @@
 
 <p>If you see this line in Github, that means your latest changes are getting pushed to your cloud repo :o</p>
 
-<p>Joe Chang, Duke Nurrein, devops methodology, Ahmed Asuni</p>
-
-<p>Glo Say, findthefunction, sharmila, Praneeth</p>
+<p>Hello! I didn't have to set up a web app from scratch all over again. I just had to clone my Git repo.</p>
 
 </body>
 
