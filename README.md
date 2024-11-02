@@ -2,6 +2,8 @@
 
 Welcome to this project combining Java web app development and AWS CI/CD tools!
 
+<br>
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies](#technologies)
@@ -9,10 +11,14 @@ Welcome to this project combining Java web app development and AWS CI/CD tools!
 - [Contact](#contact)
 - [Conclusion](#conclusion)
 
+<br>
+
 ## Introduction
 This project is used for an introduction to creating and deploying a Java-based web app using AWS, especially their CI/CD tools.
 
 The deployment pipeline I'm building around the Java web app in this repository is invisible to the end-user, but makes a big impact by automating the software release processes.
+
+<br>
 
 ## Technologies
 Here’s what I’m using for this project:
@@ -25,6 +31,8 @@ Here’s what I’m using for this project:
 - **[COMING SOON] AWS CodeDeploy**: Once it's rolled out, CodeDeploy will automate my deployment process across EC2 instances.
 - **[COMING SOON] AWS CodePipeline**: Once it's rolled out, CodePipeline will automate the entire process from GitHub to CodeDeploy, integrating build, test, and deployment steps into one efficient workflow.
 
+
+<br>
 
 ## Setup
 To get this project up and running on your local machine, follow these steps:
@@ -42,11 +50,15 @@ To get this project up and running on your local machine, follow these steps:
     mvn install
     ```
 
+<br>
+
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
 Your Name - [Your Email](mailto:your.email@email.com)
 
+<br>
+
 ## Conclusion
 Thank you for exploring this project! I'll to continue building this pipeline and apply my learnings to future projects.
 
-A big shoutout to [NextWork](https://learn.nextwork.org) for their project guide and support. You can get started with this project too by **[clicking here.](https://learn.nextwork.org/projects/aws-devops-vscode?track=high)**
+A big shoutout to [NextWork](https://learn.nextwork.org/app) for their project guide and support. You can get started with this project too by **[clicking here.](https://learn.nextwork.org/projects/aws-devops-vscode?track=high)**
