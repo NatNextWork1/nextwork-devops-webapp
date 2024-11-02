@@ -1,4 +1,4 @@
-# Java Web App Deployment with AWS CI/CD
+## Java Web App Deployment with AWS CI/CD
 
 Welcome to this project combining Java web app development and AWS CI/CD tools!
 
